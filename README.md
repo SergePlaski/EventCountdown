@@ -2,11 +2,11 @@
 
 This simple app is based on the idea by Scrimba training video: 
 https://www.youtube.com/watch?v=i9xpSr87QrM
-The code is completely reworked, and I have added a data feed with multiple missions.
+I did not follow their code or approach in general, and I have added a data feed with multiple missions.
+The technology stack is pure Jamstack (HTML/CSS/JS)
 
 Info on preloading fonts to prevent UI flicker at page load: https://dev.to/danielbellmas/preload-fonts-2jh7
-
-Glyphicon courtesy of Icon8: https://icons8.com/
+All app icons courtesy of Icon8: https://icons8.com/
 
 TODO:
 * Mobile-friendly UI.
