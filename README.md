@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/116371601/197242721-48986bf8-9442-400e-8f74-684ae61c70ea.png)
+![image](https://user-images.githubusercontent.com/116371601/197242901-bf73a911-0f16-4f2f-8362-695c097a1ab7.png)
 
 This simple app is based on the idea by Scrimba training video: 
 https://www.youtube.com/watch?v=i9xpSr87QrM
